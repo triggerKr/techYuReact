@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React lee 1 222
+          한명은 안될것 같다. 그래
         </a>
       </header>
     </div>
