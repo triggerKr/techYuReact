@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React lee 1
-          나도 수정
+          나도 수정한다.
         </a>
       </header>
     </div>
